@@ -1,9 +1,9 @@
 import java.util.*;
 
 public class Gravitacija {
-    
-    public void izpis(double rezultat) {
-        System.out.println(rezultat);
+
+    public void izpis(double visina, double pospesek) {
+        System.out.println(visina + " " + pospesek);
     }
 
     public static void main(String[] args) {
